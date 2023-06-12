@@ -1,5 +1,6 @@
 ﻿# CS314-Give_N_Get_Hub
  
+ <p align="justify">
 The website serves as an online marketplace that facilitates the exchange of items between individuals in a 
 seamless and effortless manner. The institution provides a set of three primary services, namely, borrowing, 
 bartering, and gifting. 
@@ -14,3 +15,4 @@ Furthermore, our platform cultivates a sense of communal belonging and promotes 
 amongst users by means of facilitating the exchange of goods and services. Our platform facilitates the 
 process of borrowing items for a temporary period, exchanging goods of identical worth, or offering gifts 
 in a facile and accessible manner.
+</p>
